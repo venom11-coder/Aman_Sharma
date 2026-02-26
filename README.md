@@ -10,11 +10,12 @@ Software Engineer | CS Student @ Western University | ML & Full-Stack Developer
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science student at Western University (UWO)**
-- 💻 Aspiring **Software Engineer** seeking **Summer 2026 internships**
-- 🚀 Builder of **Fittergem** — an AI-powered fitness & lifestyle app
-- 🧠 Strong interest in **Machine Learning, Systems, and Full-Stack Development**
-- 🏆 Active in **hackathons, open-source, and research-driven projects**
+- 🎓 **Computer Science student at Western University (UWO)** — expected 2027
+- 💻 Seeking **Summer 2026 Software Engineering / ML internships**
+- 🚀 Built and deployed **FitterGem** — full-stack AI fitness app (Flutter + FastAPI + GPT-4o + PostgreSQL)
+- 🔬 **Research developer** at Western University Open Source Innovation Lab (Dr. Joshua Pearce)
+- 🧠 Interests: **Machine Learning, Backend Systems, Full-Stack Development, Computer Vision**
+- 🏆 Active in **hackathons and open-source research**
 
 ---
 
