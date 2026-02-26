@@ -14,7 +14,6 @@ Software Engineer | CS Student @ Western University | ML & Full-Stack Developer
 - 💻 Aspiring **Software Engineer** seeking **Summer 2026 internships**
 - 🚀 Builder of **Fittergem** — an AI-powered fitness & lifestyle app
 - 🧠 Strong interest in **Machine Learning, Systems, and Full-Stack Development**
-- ♟️ **FIDE Rated 1895**, competitive chess player & **professional chess coach**
 - 🏆 Active in **hackathons, open-source, and research-driven projects**
 
 ---
@@ -83,10 +82,10 @@ Software Engineer | CS Student @ Western University | ML & Full-Stack Developer
 
 ---
 
-## ♟️ Chess & Leadership
-- 🏅 **FIDE Rating: 1895**
-- 👨‍🏫 **Professional Chess Coach** (international & national students)
-- 🧠 Strong analytical thinking, decision-making & mentoring skills
+## 🏆 Achievements & Leadership
+- ♟️ **FIDE Rating 1895** — represented India in Commonwealth Chess Championship 2018 & 2019
+- 🌍 Competed in 100+ international tournaments across Canada and India
+- 👨‍🏫 Professional Chess Coach — teaching students internationally since 2014
 
 ---
 
