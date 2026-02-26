@@ -68,9 +68,10 @@ Software Engineer | CS Student @ Western University | ML & Full-Stack Developer
 ---
 
 ## 🚀 Featured Projects
-- **Fittergem** — AI-powered fitness coaching platform (Flutter + FastAPI + GPT)
-- **Open-Source Innovator** — real-time AI notetaking platform for students
-- **Wagilab** — research-driven academic project
+- **Fittergem** — AI-powered fitness platform (Flutter + FastAPI + PostgreSQL + GPT)
+- **Open-Source Innovator** — combinatorial innovation platform generating 100,000+ design combinations (React + FastAPI)
+- **Wagilab** — AI notetaking research collaboration (Western University)
+- **FocusBlock** — Twilio-integrated site blocker with AI scheduling (Python) — *in progress*
 
 ---
 
